@@ -37,3 +37,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### 本地缓存快照 ###
+cache-snapshot.txt
+*.cache-snapshot.tmp
